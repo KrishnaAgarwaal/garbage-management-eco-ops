@@ -1,0 +1,7 @@
+/* Minimal reset — Bootstrap handles typography, colors, and components */
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  width: 100%;
+}

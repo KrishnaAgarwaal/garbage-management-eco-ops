@@ -1,0 +1,5 @@
+/* Base reset - let Bootstrap handle everything */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
